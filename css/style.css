@@ -1517,3 +1517,14 @@ a:focus {
         text-align: center;
     }
 }
+#esocial{
+   
+   color: #2da1f4;
+   font-size: large;
+}
+#cronograma{
+
+    width: 600px;
+    height: 600px;
+    margin: auto;
+}
